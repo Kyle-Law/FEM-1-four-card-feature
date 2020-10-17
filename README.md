@@ -1,6 +1,14 @@
 # Frontend Mentor - Four card feature section
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
+> Project from [Frontend Mentor](https://www.frontendmentor.io)
+
+## Snapshots
+
+![image](https://user-images.githubusercontent.com/55923773/96338792-08f6ef00-10c3-11eb-8217-582fa3843645.png)
+
+## Live Link
+
+View it LIVE [HERE](https://fem-1-four-card-feature.vercel.app/)
 
 ## Difficulty: 1 - Newbie
 
@@ -9,6 +17,30 @@
 - HTML
 - CSS
 
+## Authors
+
+👤 **Kyle Law**
+
+- Github: [@Kyle-Law](https://github.com/Kyle-Law)
+- Linkedin: [Kyle law](https://www.linkedin.com/in/kyle-lawzhunkhing/)
+- Twitter: [@Kyle-Law](https://twitter.com/ZhunKhing)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Frontend Mentor](https://www.frontendmentor.io)
+
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -16,6 +48,10 @@ Thanks for checking out this front-end coding challenge.
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
+
+## Design
+
+![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 ## The challenge
 
